@@ -1,2 +1,6 @@
 # Pong-Neural-Network
 Pong game but integrated with an AI Neural Network who can learn and adapt as you play, includes local multiplayer and mass agent training, exporting and importing.
+# About 
+This project was made with educational porposes about neural network function, i tried to make the code as legible as possible (though there is some spaghetti). No external libraries besides **numpy** (for mass math equations) and **pygame** (visual aspects) were used, you may use and tweak this code as you wish for free, but distribution is not allowed without sourcing the original repository (this one) in a clear and acessible way. I also am new to git/gitub's functions, so if you see any strange commits, insights or anything else keep in mind that i'm probably not yet aware how to properly use the tools.
+# Learning
+I am a self thought developer so it's expected i have major skill issues still, as i said, this project is not professional in any way and is being made for the love of learning and of challenge, if you see any part of my code who can be improved (while still keeping it legible) i would happily try to understand and incorporate it into the project. And no... no AI was used...
